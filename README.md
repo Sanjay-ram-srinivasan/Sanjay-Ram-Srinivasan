@@ -183,16 +183,6 @@ me.say_hi()
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-
-| Badge | Certification | Issuer |
-|-------|--------------|--------|
-| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services |
-| 🏗️ | AWS Certified Solutions Architect – Associate | Amazon Web Services |
-
-</div>
 
 ---
 
@@ -200,7 +190,6 @@ me.say_hi()
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-sanjayram%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayram@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-ram-srinivasan)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-ram-srinivasan)
 
