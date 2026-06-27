@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="mailto:sanjaysrinivasan.ram@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/sanjay-ram-s-498681369/">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/sanjayram710/">💼 LinkedIn</a> ·
 </p>
 
 ---
@@ -165,4 +165,4 @@ Relevant coursework: DSA · DBMS · OOP · Computer Networks · Software Enginee
 Open to **AI/ML**, **GenAI**, and **SDE internship** opportunities. Feel free to reach out!
 
 [![Email](https://img.shields.io/badge/Email-sanjaysrinivasan.ram@gmail.com-blue?style=flat&logo=gmail)](mailto:sanjaysrinivasan.ram@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjay-ram-s-498681369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjayram710/)
