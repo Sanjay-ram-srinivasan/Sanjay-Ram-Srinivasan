@@ -1,211 +1,168 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Sanjay%20Ram!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI/ML%20Engineer%20·%20GenAI%20Builder%20·%20Full-Stack%20Python%20Dev&descAlignY=58&descSize=18"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%F0%9F%A4%96;Crafting+LLM-Powered+Apps+%F0%9F%9A%80;Full-Stack+Python+Developer+%F0%9F%90%8D;Open+to+AI%2FML+%26+GenAI+Internships+%F0%9F%92%BC" alt="Typing SVG"/>
+</p>
+<p align="center">
+  <a
+<p align="center">
+  <b>AI/ML Engineer · GenAI Builder · Full-Stack Python Dev</b><br/>
+  <i>VIT Andhra Pradesh · Amaravathi, AP</i>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sanjay%20Ram%20Srinivasan&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+  <a href="mailto:sanjaysrinivasan.ram@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/sanjay-ram-s-498681369/">💼 LinkedIn</a> ·
 </p>
-<div align="center">
-
-
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=🤖+AI+%26+Machine+Learning+Student;🧠+Building+Intelligent+Systems+with+Python;🔭+LLMs+%7C+RAG+Systems+%7C+Computer+Vision;☁️+AWS+Certified+Cloud+Practitioner+%26+SAA;🚀+Turning+Ideas+into+AI-Powered+Reality)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysrinivasan.ram@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-ram-s-498681369/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanjay-ram-srinivasan&label=Profile+Views&color=58a6ff&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/sanjay-ram-srinivasan?style=for-the-badge&color=58a6ff)
-
-</div>
 
 ---
 
 ## 🧠 About Me
 
-```python
-class SanjayRam:
-    def __init__(self):
-        self.name        = "Sanjay Ram Srinivasan"
-        self.role        = "AI & Machine Learning Student"
-        self.college     = "Vellore Institute of Technology – Andhra Pradesh"
-        self.degree      = "B.Tech Computer Science Engineering (2023 – Present)"
-        self.focus       = ["LLMs", "RAG Systems", "NLP", "Computer Vision", "Generative AI"]
-        self.certs       = ["AWS Cloud Practitioner ☁️", "AWS Solutions Architect Associate ☁️"]
-        self.looking_for = "AI/ML Internship & Research Opportunities 🚀"
+I'm a Computer Science undergrad at VIT Andhra Pradesh, obsessed with building AI systems that actually work in production — RAG pipelines that don't hallucinate, backends that scale, and tools that make people's lives easier.
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together.")
-
-me = SanjayRam()
-me.say_hi()
-```
-
-<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-- 🔭 Currently building **AI-powered applications** using Python & LLMs
-- 🌱 Deep-diving into **LangChain, LlamaIndex, and Agentic AI**
-- 🧩 Fascinated by **Retrieval-Augmented Generation (RAG)** architectures
-- 🏆 Dual **AWS Certified** — Cloud Practitioner & Solutions Architect Associate
-- 💡 Believer in **open-source AI** for democratizing education
-- 🎯 Seeking **AI/ML Research & Internship** opportunities
-- 📬 Reach me at **sanjaysrinivasa.ram@gmail.com**
-
-<br clear="right"/>
+I spend most of my time at the intersection of **Generative AI**, **NLP**, and **full-stack Python** — turning research concepts into real, deployed applications.
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 What I've Built
 
-<div align="center">
+### 🔧 [Self-Healing RAG Platform](https://self-healing-platform-link)
+> Enterprise AI Knowledge Assistant · `FastAPI · LangChain · LangGraph · ChromaDB · Groq · React`
 
-| Area | Topics |
-|------|--------|
-| 🧠 **Agentic AI** | LangChain Agents, Tool Use, ReAct Loops |
-| 🔍 **Advanced RAG** | HyDE, Re-ranking, Multi-hop Retrieval |
-| 🎨 **Generative AI** | Diffusion Models, Fine-tuning LLMs |
-| ☁️ **MLOps** | AWS SageMaker, Model Deployment, CI/CD for ML |
-| 📊 **Data Science** | Feature Engineering, Advanced EDA |
-
-</div>
+A production-grade RAG system that queries multi-format documents with **self-healing logic** — query rewriting, retrieval validation, and retry mechanisms to cut hallucinations. Ships with a live analytics dashboard tracking faithfulness scores, confidence, and retrieval performance.
 
 ---
 
-## 🎯 Goals for 2026
+### 🎯 AI Placement & Learning Copilot
+> RAG-Based Career Intelligence System · `LangChain · ChromaDB · OpenAI · Flask · HuggingFace`
 
-```
-🏆  Land an AI/ML Internship or Research Role
-📦  Publish 5+ open-source AI projects on GitHub
-🧠  Master LangChain, LlamaIndex & Agentic Workflows
-📝  Write technical blogs on RAG & LLM applications
-☁️  Earn AWS Machine Learning Specialty certification
-🤝  Contribute to a well-known open-source AI project
-🔬  Co-author or publish an AI/ML research paper
-```
+An end-to-end career assistant that ingests 500+ career documents, delivers semantic job recommendations with **<1.2s retrieval latency**, and auto-analyzes resumes against job descriptions — generating personalized improvement plans via LLM prompting.
 
 ---
 
-## 🛠️ Tech Stack
+### 💼 [CareerConnect](https://careerconnect-4obn.onrender.com)
+> Full-Stack Career Platform · `Flask · SQLAlchemy · SQLite · Bootstrap · Render`
 
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+A deployed career platform with JWT auth, role-based access (admin / recruiter / applicant), 50+ RESTful endpoints, and an advanced job search module that cut average job discovery time by **60%**.
 
 ---
 
-## 🏗️ Featured Projects
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
+### 🤖 Generative AI & LLMs
 
-### 🤖 AI Placement & Learning Copilot
-[![Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-ram-srinivasan/ai-placement-copilot)
-[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-placement-copilot-alpha.vercel.app/)
-
-> AI-powered career assistant for students. Analyzes resumes, detects skill gaps, and generates personalized learning roadmaps using **LLMs + RAG architecture**.
-
-`Python` `Flask` `LLM` `RAG` `ChromaDB` `React.js` `Gemini API` `JWT`
-
----
-
-### 🎯 Career Connect – AI Placement & Learning Copilot
-
-[![Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-ram-srinivasan/careerconnect)
-[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://careerconnect-4obn.onrender.com)
-
-> Intelligent AI career assistant that performs resume intelligence, semantic skill-gap analysis, personalized roadmap generation, interview preparation, and career guidance using LLMs and Retrieval-Augmented Generation (RAG).
-
-`Python` `Flask` `SQLAlchemy` `SQLite`  `Bootstrap`  `Render`
----
-
-### 🎫 QR-Based Hackathon Event Scanner
-[![Repo](https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-ram-srinivasan/hackathon-scanner)
-
-> Full-stack event management system with QR-based registration, automated badge generation, and team & seating management.
-
-`Python` `Flask` `MySQL` `QR Code` `REST API`
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/>&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="65" title="HuggingFace"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" title="OpenCV"/>&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="65" title="LangChain"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" title="FastAPI"/>
+</p>
+<p align="center"><sub>Python &nbsp;&nbsp;&nbsp; HuggingFace &nbsp;&nbsp;&nbsp; OpenCV &nbsp;&nbsp;&nbsp; LangChain &nbsp;&nbsp;&nbsp; FastAPI</sub></p>
 
 ---
 
+### 📊 ML & Data
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjay-ram-srinivasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-ram-srinivasan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-ram-srinivasan&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-ram-srinivasan&bg_color=0d1117&color=58a6ff&line=a371f7&point=58a6ff&area=true&hide_border=true" width="95%"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" title="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" title="Scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" title="Jupyter"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/>
+</p>
+<p align="center"><sub>NumPy &nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp; Scikit-learn &nbsp;&nbsp;&nbsp; Jupyter &nbsp;&nbsp;&nbsp; Matplotlib</sub></p>
 
 ---
 
+### 🌐 Backend & Web
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" title="Flask"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" title="Bootstrap"/>
+</p>
+<p align="center"><sub>Flask &nbsp;&nbsp;&nbsp; FastAPI &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; HTML5 &nbsp;&nbsp;&nbsp; Bootstrap</sub></p>
 
 ---
 
-## 📫 Let's Connect
+### ☁️ Cloud & DevOps
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-ram-srinivasan)
-
-
-<br/>
-
-*Open to AI/ML internship opportunities, research collaborations, and interesting open-source projects.*
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" title="AWS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" title="GitHub"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="65" title="CI/CD"/>
+</p>
+<p align="center"><sub>AWS &nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; CI/CD</sub></p>
 
 ---
 
-<div align="center">
+### 🗄️ Databases
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" title="SQLite"/>
+</p>
+<p align="center"><sub>MySQL &nbsp;&nbsp;&nbsp; SQLite</sub></p>
 
-<br/><br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+### 🔧 Languages & Tools
 
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" title="Java"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" title="C"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" title="VS Code"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" title="Figma"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="65" title="Postman"/>
+</p>
+<p align="center"><sub>Java &nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; Postman</sub></p>
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Academy Graduate – Cloud Foundations (2025)
+- ☁️ AWS Academy Graduate – Cloud Architecting (2025)
+- 📊 MATLAB Certification – MathWorks (2023–2024)
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering** — VIT Andhra Pradesh *(Sep 2023 – Present)*
+Relevant coursework: DSA · DBMS · OOP · Computer Networks · Software Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjayram710&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayram710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+### 🏆 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayram710&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+Open to **AI/ML**, **GenAI**, and **SDE internship** opportunities. Feel free to reach out!
+
+[![Email](https://img.shields.io/badge/Email-sanjaysrinivasan.ram@gmail.com-blue?style=flat&logo=gmail)](mailto:sanjaysrinivasan.ram@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjay-ram-s-498681369/)
