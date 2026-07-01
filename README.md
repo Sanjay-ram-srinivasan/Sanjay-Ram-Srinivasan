@@ -148,9 +148,7 @@ Relevant coursework: DSA · DBMS · OOP · Computer Networks · Software Enginee
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjayram710&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayram710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
+
 
 ### 🏆 Contribution Graph
 
